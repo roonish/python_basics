@@ -1,11 +1,8 @@
-# Programmer: Samir Ranabhat
-# Date: July 03, 2024
-
-# Import necessary libraries
-import pandas as pd
+# Programmer: Ronish Shivakoti
 import matplotlib.pyplot as plt
+import pandas as pd
 
-# Create a dictionary with the data
+# Data from the table
 data = {
     'City': ['Bristol', 'Cardiff', 'Bath', 'Liverpool', 'Glasgow', 'Edinburgh', 'Leeds', 'Reading', 'Swansea', 'Manchester'],
     'Population': [617280, 447287, 94782, 864122, 591620, 464990, 455123, 318014, 300352, 395515]
